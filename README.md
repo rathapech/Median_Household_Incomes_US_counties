@@ -1,0 +1,2 @@
+# Median_Household_Incomes_US_counties
+In this study, we aim at analysing the unemployment and it correlation belonging to household of different counties in United States. By using the employment rate, unemplyment rate and civilian labor foce information, we shall predict the median household income of the counties. The The data that is used in this study can be obtained at https://www.prb.org/usdata/indicator/income/snapshot/
